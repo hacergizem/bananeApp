@@ -14,7 +14,7 @@ It's a funny social media app that I made with Firebase. People share their opin
 You can install dependencies with `npm install` o `yarn install`.
 
 Then you can run `yarn start` command.
-If you want to see project in emulator you can run; `yarn run-android` or `yarn run-ios` commands.
+If you want to see project in emulator you can run; `yarn android` or `yarn ios` commands.
 
 # Basic Knowledge of
 
